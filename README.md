@@ -4,13 +4,13 @@
 
 [![CI](https://github.com/Eddiegah/vigil/actions/workflows/ci.yml/badge.svg)](https://github.com/Eddiegah/vigil/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Live demo](https://img.shields.io/badge/demo-live-3ecf8e?logo=vercel&logoColor=white)](https://vigil-jade.vercel.app)
+[![Live demo](https://img.shields.io/badge/demo-live-3ecf8e?logo=vercel&logoColor=white)](https://vigil-delta-two.vercel.app)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js&logoColor=white)
 
 </div>
 
-**[Live demo](https://vigil-jade.vercel.app)**
+**[Live demo](https://vigil-delta-two.vercel.app)**
 
 A real-time driver drowsiness and attention monitor that runs entirely in your browser. It
 tracks your face through a webcam feed, computes eye-closure and head-pose signals every frame,
@@ -18,7 +18,7 @@ and raises a visible-plus-audible alert when you've been drowsy or looking away 
 no video is ever recorded, uploaded, or stored, and no server is involved once the page has
 loaded: face tracking runs client-side via MediaPipe's WASM Face Landmarker.
 
-Vigil is the sibling of this portfolio's [SignBridge](https://github.com/Eddiegah/signbridge)
+Vigil is the sibling of this portfolio's [SignBridge](https://github.com/Eddiegah/SignBridge)
 project — real-time, honestly-scoped, privacy-conscious computer vision built from real
 landmark data, not a black-box wrapper. SignBridge is deliberately local-only; Vigil takes the
 same privacy stance ("nothing about your face ever leaves your device") but ships it as a live,

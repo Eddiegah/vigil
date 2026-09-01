@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 const title = "Vigil";
 const description =
   "A real-time driver drowsiness and attention monitor that runs entirely in your browser - webcam and inference never leave your device.";
-const url = "https://vigil-jade.vercel.app";
+const url = "https://vigil-delta-two.vercel.app";
 
 export const metadata: Metadata = {
   title,

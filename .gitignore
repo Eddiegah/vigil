@@ -42,3 +42,6 @@ next-env.d.ts
 
 # source photos used to extract test fixtures - not redistributed, see scripts/extract-fixture-landmarks.mjs
 /scripts/source-photos/
+
+.vercel
+.env*
